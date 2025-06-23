@@ -7,7 +7,7 @@ import Hero from '@/components/Hero';
 import FoodCategories from '@/components/FoodCategories';
 import PopularRestaurants from '@/components/PopularRestaurants';
 import MenuSection from '@/components/MenuSection';
-import AppDownload from '@/components/AppDownload';
+// import AppDownload from '@/components/AppDownload';
 import Testimonials from '@/components/Testimonials';
 
 export const metadata = {

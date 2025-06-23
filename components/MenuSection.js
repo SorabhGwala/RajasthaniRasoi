@@ -56,7 +56,7 @@ const MenuSection = () => {
             Our Special <span className="text-[#F97316]">Menu</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto font-poppins">
-            Discover our chef's special dishes made with the finest ingredients
+            Discover our chefs special dishes made with the finest ingredients
           </p>
         </div>
 
